@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jenny-bot-ee9g",
+  "private_key_id": "c95f55784aad4b0575c074fa81833adfc5be8eab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCweDsN1fdE026F\n1laACBSaJEZNEd6ZyRr+GOD2qqHE9SqF6Q8fsCYD2ENo+GjaGaCPacblw1W6pQ61\n26qKZn5LhPSjDvIlRJy0SKuOrswpG1sr2+RCcLYn4dBRAM93lj1zBns848BI7iPt\npgJvCE+AVGcFBney58flYrviUbqJQjdtrtP5RhBrZVhWDaWggfB5UiWpCh4OyJol\n/oZL1y3ERKeK3qdTCHHgk/nc8N01S7A9M5WMkqaUJ1Sl76Rw3CerfHkGovdL1DOa\n4I530NPsKRt6RDyC3JoEETHVggC86/ika2UNzPKWeIPAthKngFsVcza4JnVriFI5\nBPT107B9AgMBAAECggEACG//Ntajp31KfAi3AxEf1wzj9ZxkncrBSSPsYa7f5Dhq\nq5NsnzG/Z5CoDHVQIhl2lVTT5zlzOGTa8rQJj+t9n2PAhKlax5Bjw7TzyvMtnMuL\njOnLHKgh9X81BCJ7SPb8girtqogjMfl860h0NlXZ40Nl15YrE/lEFAIoBJauyhA1\nmpum1vOpbhciw4HDTOOtORiSusbAKAFmqH4S4kwiUsQmzuMDbxE3tAVD4gINDZU2\neAR6nJdlWc2GvWGfdDnl2ViS8+0buVrNwmA/85QsxI74VAC+it2oIav2VhJPDFkS\nePb0tFA7qFMv80+69anfHD5lKY0dbaNhu46VOHMfWwKBgQDcW8RZryVXZPkp/tRO\nVZfbYwTUpdWmqWKYKxXouRrXralUADze5OExGW/KvIImio0lD6g+RTTAIwkmBXGn\ne7j2LPCdzuT1lsoiv4XQg8kYPAuyvXETpb2UBIWZNRL/eVGrG/FeL13n2PnpxyB9\ntvzIb80Xc65vayNKxpaN1ALFFwKBgQDNAzB/OUxG/sdJNSdiGus3ipMZwZpuRA+j\nypDCeGL9advci6rynt+p50rA2mxB82SMoTEYXaD6kGsOZ5nR1V5/8fNiQ5/Om7Xy\n2+z0S9hR87NLAHb1wLcFue5eQDj+MAa7AVBD9PJVKYL9mwEdYitbksa6K7uMX6t2\nj5zI1wjbiwKBgQC5ejiEcKsSq7gaRBd5tAv1Kpx3TPrPpIWLpcB0OdJBNjhvrx+N\nUcPGqy1wzUkTnc1+I3auq1viWdsqeKyYl8gw1dTWT75ihUCxDNpaj4Kldm02TsSu\nD/TJcSDuu0C5bulyCDwa1e3J59U7lFNh3bNaFtjfY4yw1dJH723sBUcrkwKBgGHp\nmAvrDacKn5szK7ALMzO/lynB8UOgdefAIwr9/CkTmdHnUqm1fxTiRi19JB8LY4ZW\npeABN5TzzG2AxVIWGZ/5qkfQDE7cxzVKHA1A+/uH7KVxf183vzGY72NMQOwFe/Fs\nWy1ZmzNZNBpzIUErVZHSs97ObDBKsNVbGYJCURSpAoGBAMTungh+HQ7cJc9k0DDs\naZ4StwUzXpFozkJUJuVrNkNCVP0zaIKsGmKdqZcVnUgpiu7raOfPk9pX/D98cjAg\n2QphKwLLDFR8tAjj8Qnt1i1TsasaVRMF+5paWcTY/fEXx8RnITGHmRWPBPKoKwZA\ntzwMmM2Vz/nd2Plm5QWJb1pG\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integration@jenny-bot-ee9g.iam.gserviceaccount.com",
+  "client_id": "100131910490930542803",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integration%40jenny-bot-ee9g.iam.gserviceaccount.com"
+}
